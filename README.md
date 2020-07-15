@@ -9,10 +9,10 @@
 ## [적절한 버전의 CHROME DRIVER](https://chromedriver.chromium.org/downloads) 가 필요합니다.
 ## automated_jagajindan_stu_data.txt에 이름과 학번을 집어넣으세요!
 ###
-```json
+```bash
 {
-  "NAME"
-  "DATE_OF_BIRTH"
+  NAME
+  DATE_OF_BIRTH
   홍길동
   031224
 }
