@@ -1,1 +1,2 @@
-# 경기도 교육청 자가진단 자동화 Automated-Student-selfDiagnosis
+# Automated-Student-selfDiagnosis 
+  경기도교육청 학생 자가진단 자동화
