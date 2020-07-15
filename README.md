@@ -11,8 +11,8 @@
 ###
 ```json
 {
-  NAME
-  DATE_OF_BIRTH
+  "NAME"
+  "DATE_OF_BIRTH"
   홍길동
   031224
 }
