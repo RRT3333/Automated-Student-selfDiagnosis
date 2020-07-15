@@ -8,7 +8,7 @@
 # 📦HOW TO USE?
 >### [적절한 버전의 CHROME DRIVER](https://chromedriver.chromium.org/downloads) 가 필요합니다.
 
-## automated_jagajindan_stu_data.txt에 이름과 학번을 집어넣으세요!
+## automated_jagajindan_stu_data.txt에 이름과 생년월일을 집어넣으세요!
 ###
 ```bash
 NAME
