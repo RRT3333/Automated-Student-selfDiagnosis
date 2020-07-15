@@ -1,6 +1,6 @@
 '''
 automated student self-diagnosis, ASD
-Copyright (c)2020 TAO mmtsd@naver.com
+Copyright (c)2020 TAO
 All rights reserved.
 '''
 # -*- coding: utf-8 -*-
