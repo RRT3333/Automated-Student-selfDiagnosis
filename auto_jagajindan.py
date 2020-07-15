@@ -14,14 +14,11 @@ for line in lines:
     if(i==0 or i==1):
         i+=1
         continue
-    #print(line,end='')   #txt파일의 \n
     if(i%2==0):
-        #이름
-        name=line
+        name=line            #이름
         print(name,end='')
     else:
-        #생년월일
-        bit=line
+        bit=line            #생년월일
         print(bit,end='')
         automated.jindan(name, bit)
     i+=1
