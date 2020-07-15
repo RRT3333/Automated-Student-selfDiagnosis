@@ -5,5 +5,5 @@
 ### 👋선생님의 갈굼으로 부터 해방 아침을 기분좋게!
 
 #### HOW TO USE?
-
+## 📦 [CHROME DRIVER](https://chromedriver.chromium.org/downloads) 가 필요합니다.
 This module uses [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) for rendering images, so you should install it first besides with `react` and `react-native`.
