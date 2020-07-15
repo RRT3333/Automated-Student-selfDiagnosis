@@ -16,6 +16,6 @@
   홍길동
   031224
 }
-'''
+```
 
 This module uses [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) for rendering images, so you should install it first besides with `react` and `react-native`.
