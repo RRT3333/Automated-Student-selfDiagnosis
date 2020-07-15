@@ -29,9 +29,9 @@ def jindan(n,b):
     driver.find_element_by_xpath('//*[@id="rspns070"]').click()  # 해외여행
     driver.find_element_by_xpath('//*[@id="rspns080"]').click()  # 가족 유증상자
     driver.find_element_by_xpath('//*[@id="rspns090"]').click()  # 가족 자가격리자
-    sleep(1)
+    #sleep(1)   #차단 방지
     ##제출 조심!
     driver.find_element_by_xpath('/html/body/app-root/div[2]/section/div/div/div/form/div/div/button').click()   #제출
-    sleep(1)
+    #sleep(1)   #차단방지
     driver.find_element_by_xpath('//*[@id="container"]/div/div/div/div[2]/button').click()   #처음으로
     #driver.close()
