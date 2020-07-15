@@ -14,7 +14,7 @@ for line in lines:
     if(i==0 or i==1):
         i+=1
         continue
-    #print(line,end='')   #txt파일의 \n도 같이 읽힘에 주의
+    #print(line,end='')   #txt파일의 \n
     if(i%2==0):
         #이름
         name=line
