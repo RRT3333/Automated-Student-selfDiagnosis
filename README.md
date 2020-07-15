@@ -5,8 +5,8 @@
 >### 👋선생님의 갈굼으로 부터 해방 아침을 기분좋게!
 
 
-### 📦HOW TO USE?
-# [적절한 버전의 CHROME DRIVER](https://chromedriver.chromium.org/downloads) 가 필요합니다.
+# 📦HOW TO USE?
+### [적절한 버전의 CHROME DRIVER](https://chromedriver.chromium.org/downloads) 가 필요합니다.
 
 
 
