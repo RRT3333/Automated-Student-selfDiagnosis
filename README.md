@@ -6,7 +6,7 @@
 
 
 # 📦HOW TO USE?
-## [적절한 버전의 CHROME DRIVER](https://chromedriver.chromium.org/downloads) 가 필요합니다.
+### [적절한 버전의 CHROME DRIVER](https://chromedriver.chromium.org/downloads) 가 필요합니다.
 
 
 
