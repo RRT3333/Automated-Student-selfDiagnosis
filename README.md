@@ -10,12 +10,10 @@
 ## automated_jagajindan_stu_data.txt에 이름과 학번을 집어넣으세요!
 ###
 ```bash
-{
   NAME
   DATE_OF_BIRTH
   홍길동
   031224
-}
 ```
 
 This module uses [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) for rendering images, so you should install it first besides with `react` and `react-native`.
