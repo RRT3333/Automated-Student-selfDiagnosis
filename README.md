@@ -1,6 +1,6 @@
 # Automated-Student-selfDiagnosis
  >## 경기도교육청 학생 건강상태 자가진단 자동화 프로그램
- >[COVID-19 Self-diagnosis](https://eduro.goe.go.kr/hcheck/index.jsp) automation for Gyeonggi-do schools
+ >[Student COVID-19 Self-diagnosis](https://eduro.goe.go.kr/hcheck/index.jsp) automation for Gyeonggi-do schools
 ## 여러분의 시간은 소중합니다
 >### 👋선생님의 갈굼으로 부터 해방, 아침을 기분좋게!
 
